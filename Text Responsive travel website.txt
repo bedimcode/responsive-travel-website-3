@@ -1,0 +1,124 @@
+========== HEADER ==========
+.nav__logo
+GoTravel
+
+.nav__link
+Home - Destination - Testimonials - Gallery - Contact
+
+
+========== HOME ==========
+.home__title
+Travel <br> Around <br> The World
+
+.home__description
+Explore the best beautiful tourist spots in 
+the countries and see the world on all your 
+amazing adventures.
+
+.home__button
+Explore The World
+
+
+========== DESTINATION ==========
+.section__title
+Find Your Best <br> Destination
+
+.destination__subtitle .destination__title .destination__country
+Bali
+ISLAND
+Indonesia
+
+Banana
+BEACH
+Tailandia
+
+Santorini
+ISLAND
+Grecia
+
+
+========== TESTIMONIAL ==========
+.section__title
+What Are <br> They Saying?
+
+.testimonial__title
+Ama Dablam
+Mount Fuji
+Nanga Parbat
+
+.testimonial__description
+I was delighted to visit the country because the 
+scenery is beautiful. The residents also welcomed 
+me happily and with smiles.
+
+.testimonial__info h3 - p
+Will
+Photographer
+
+Rose
+Influencer
+
+Gian
+Blogger
+
+
+========== GALLERY ==========
+.section__subtitle
+Gallery
+
+.gallery__subtitle .gallery__title
+Nusa
+Indonesia
+
+Cook
+Nueva Zelanda
+
+Bora Bora
+Polinesia
+
+Santorini
+Grecia
+
+
+========== JOIN ==========
+.section__title
+Your Journey <br> Starts Here
+
+.join__description
+Get up to date with the latest travel 
+and information from us.
+
+.join__input
+Enter your email
+
+.join__button
+Join our newsletter
+
+
+========== FOOTER ==========
+.footer__logo
+GoTravel
+
+.footer__title .footer__link
+About
+  About Us
+  Features
+  News & Blogs
+
+Contact
+  Call Center
+  Support
+  Contact Us
+
+Support
+  Privacy Policy
+  Terms & Services
+  Payments
+
+Social
+  https://www.facebook.com/
+  https://www.instagram.com/
+  https://twitter.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
